@@ -8,11 +8,11 @@ To write a program to implement the the Logistic Regression Model to Predict the
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1.Import the standard library in python
-2.Use drop(),isnull()functions to check the empty set and remove the given data
-3.Import labelencoder form sklearn use the lr for given featuers
-4.Import train_test_split and Use the metrices for accuracy value 
-5.Import the classification report and predict the value for unknown data
+1. Import the standard library in python
+2. Use drop(),isnull()functions to check the empty set and remove the given data
+3. Import labelencoder form sklearn use the lr for given featuers
+4. Import train_test_split and Use the metrices for accuracy value 
+5. Import the classification report and predict the value for unknown data
 
 ## Program:
 ```
