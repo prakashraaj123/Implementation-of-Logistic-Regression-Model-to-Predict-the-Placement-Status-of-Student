@@ -67,9 +67,9 @@ print(lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]]))
 
 
 ## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student](/head1.PNG)
-![the Logistic Regression Model to Predict the Placement Status of Student](/head2.PNG)
-![the Logistic Regression Model to Predict the Placement Status of Student](/Encoder.PNG)
+![Head1](/head1.PNG)
+![head2](/head2.PNG)
+![encoder](/Encoder.PNG)
 ![the Logistic Regression Model to Predict the Placement Status of Student](/accuracy.PNG)
 ![the Logistic Regression Model to Predict the Placement Status of Student](/confusion.PNG)
 ![the Logistic Regression Model to Predict the Placement Status of Student](/classification.PNG)
